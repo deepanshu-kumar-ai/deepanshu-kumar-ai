@@ -1,14 +1,29 @@
-## Hi there 👋 I'm Deepanshu Kumar!
+# 👋 Hey there, I’m Deepanshu Kumar  
 
-✨ Welcome to my GitHub profile ✨
+✨ **Welcome to my GitHub space** — where I share my coding journey, learning experiments, and projects 🚀  
 
-- 🔭 I’m currently working on improving my programming skills and preparing for software engineering internships.
-- 🌱 I’m currently learning Python, C, SQL, Data Structures, and exploring basics of Machine Learning.
-- 👯 I’m looking to collaborate on projects related to software development, AI, and ML.
-- 🤔 I’m looking for help with getting an internship after my second semester.
-- 💬 Ask me about Python, SQL, Data Structures, and starting out with programming!
-- 📚 I’m pursuing a Bachelor of Computer Applications (BCA) from Bangalore North University.
-- 📫 How to reach me: 
-  - Email: deepanshuvadav@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing badminton 🏸 and solving problems under pressure!
+## 💻 Tech Stack  
+**Languages:** Python, C, R, SQL, MySQL, Data Structures & Algorithms (DSA)  
+**Database:** DBMS (Database Management Systems)  
+**Frameworks & Tools:** Flask, Learning NumPy, Pandas, and Django  
+**Currently Learning:** Java with OOP, Design & Analysis of Algorithms (DAA), IoT, Shell Scripting  
+
+## 🎯 Current Focus  
+- Strengthening problem-solving and algorithmic thinking  
+- Building real-world applications using Python and Flask  
+- Exploring Java OOP and IoT-based systems  
+- Preparing for software engineering internships  
+
+## 📚 Education  
+**Bachelor of Computer Applications (BCA)** — Bangalore North University  
+
+## 🤝 Looking to Collaborate On  
+- Software development projects  
+- AI/ML experiments  
+- Open-source contributions  
+
+## 📫 Contact Me  
+- **Email:** deepanshuvadav@gmail.com  
+
+## ⚡ Fun Fact  
+When I’m not coding, I’m either smashing birdies 🏸 on the badminton court or solving tricky problems under pressure.  
